@@ -1,1 +1,2 @@
 # InternalTestRepo2
+foo
